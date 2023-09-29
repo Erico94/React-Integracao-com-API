@@ -1,0 +1,19 @@
+{
+    "Estudios" : [
+        {
+          "id": 1 ,
+          "nome": "Playstation",
+          "endereco": "Rua X",
+          "dataCriacao": "2023-09-28T06:37:36.772Z"
+        }
+      ],
+      "Jogos" : [
+        {
+        "id": 1,
+        "nome": "Super mario",
+        "dataLancamento": "2023-09-27T23:07:48.707861-03:00",
+        "categoria": 2,
+        "estudioId": 1
+      }
+    ]
+}
